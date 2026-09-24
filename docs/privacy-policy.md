@@ -14,7 +14,7 @@ Finance Tracker — оффлайн-трекер личных финансов д
 
 **Управление и хранение.** Диагностику можно отключить в настройках. Приложение прекратит сбор Analytics, сбросит её локальные данные и удалит неотправленные отчёты Crashlytics. Полное отключение отправки сбоев может потребовать перезапуска. Уже отправленные данные этим переключателем не удаляются. По документации Firebase, отчёты Crashlytics и связанные идентификаторы хранятся 90 дней до начала удаления; срок хранения Analytics определяется настройками Google Analytics. Локальные операции можно удалить в приложении; остальные локальные данные удаляются при удалении приложения. Страница политики загружается через интернет с Google Sites.
 
-Контакт разработчика: adadad@gmail.com
+Контакт разработчика: amdevmobileteam@gmail.com
 
 ## English
 
@@ -26,4 +26,4 @@ Finance Tracker is an offline personal finance tracker for Android. You can trac
 
 **Control and retention.** You can disable diagnostics in Settings. The app stops Analytics collection, resets its local Analytics data and deletes unsent Crashlytics reports. Crash reporting may take a restart to become fully disabled. Turning off the switch does not erase data already sent. Firebase documentation states that Crashlytics reports and associated identifiers are kept for 90 days before removal begins; Analytics retention depends on Google Analytics settings. You can delete local transactions in the app; uninstalling removes other local app data. This policy page loads from Google Sites over the internet.
 
-Developer contact: adadad@gmail.com
+Developer contact: amdevmobileteam@gmail.com
